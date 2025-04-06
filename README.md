@@ -5,10 +5,10 @@ For a living, I install and configure media systems such as broadcast technology
 My coding adventures usually involve:
 - ✨ Full-Stack Web Development
 - 🎮 Game Development in Godot
-- 📟 Python Utilities & Scripts
+- 🐍 Python Utilities & Scripts
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliPohl&layout=compact&theme=radical&hide_border=true&card_width=450" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliPohl&layout=compact&theme=radical&hide_border=true&card_width=370" />
 </a>
 
 

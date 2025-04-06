@@ -53,21 +53,7 @@ An interactive web project that lets users explore and watch public broadcasting
 | **[Life Support](https://misterixi.itch.io/life-support)** | Mini Bean Jam #9 | *We Are Not Alone* | #5 (Top 19.2%) | Nov 2023 |  
 | **[Project: Pirates](https://misterixi.itch.io/project-pirates)** | UDC Jam #25 | *Alone* | #9 (Top 22%) | Mar 2023 |  
 
-*(Full list [below](#-all-game-jams))*
-
----
-
-## 🎮 All Game Jams  
-- [DeHell](https://chocolandtv.itch.io/dehell) – Puls Game Jam *(Broken)* – Mar 2025  
-- [Glenwich Station](https://misterixi.itch.io/glenwich-station) – Godot Wild Jam #74 *(Haunted)* – Oct 2024  
-- [Bad Apple](https://misterixi.itch.io/bad-apple) – Godot Wild Jam #71 *(Unintended Consequences)* – Jul 2024  
-- [Balloon Bonanza](https://misterixi.itch.io/jimmys-balloon-bonanza) – Mini Jame Gam #30 *(We Are Not Alone)* – May 2024  
-- [Life Support](https://misterixi.itch.io/life-support) – Mini Bean Jam #9 *(We Are Not Alone)* – Nov 2023  
-- [Alchemist Assembly](https://misterixi.itch.io/alchemist-assembly) – Ludum Dare 53 *(Delivery)* – May 2023  
-- [Tommy Button](https://oliverpohl.itch.io/tommy-button) – Mini Jame Gam #16 *(Break the Rules)* – Apr 2023  
-- [Project: Pirates](https://misterixi.itch.io/project-pirates) – UDC Jam #25 *(Alone)* – Mar 2023  
-- [Orbital Oranges](https://misterixi.itch.io/orbital-oranges) – Ludum Dare 52 *(Harvest)* – Jan 2023  
-- [Oneiromancy](https://misterixi.itch.io/oneiromancy) – Manasoup Jam 2 *(Deep Dreams)* – Dec 2022  
+*(Full list on [itch.io](https://olipohl.itch.io/))*
 
 ---
 

@@ -71,11 +71,4 @@ An interactive web project that lets users explore and watch public broadcasting
 
 ---
 
-## ⭐ Socials!  
-- 🎮 [Itch.io](https://olipojl.itch.io/)  
-- 💼 [Portfolio](https://olipohl.com)
-- 💻 [Discord](http://discordapp.com/users/89713157060202496)  
-
----
-
 **Thanks for visiting!** 😊  

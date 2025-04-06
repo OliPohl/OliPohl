@@ -4,16 +4,13 @@ For a living, I install and configure media systems such as broadcast technology
 
 My coding adventures usually involve:
 - ✨ Full-Stack Web Development
-- 🎮 Game Development
+- 🎮 Game Development in Godot
 - 📟 Python Utilities & Scripts
 
----
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliPohl&layout=compact&theme=radical&hide_border=true&card_width=450" />
+</a>
 
-## 🛠️ Tech Stack  
-- **Favorite Game Engine**: Godot 4.x
-- **Languages**: Python, GDScript, JavaScript/TypeScript, HTML/CSS, C#
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OliPohl&layout=compact&theme=radical&hide_border=true)  
 
 ---
 

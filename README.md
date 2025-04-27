@@ -47,8 +47,7 @@ An interactive web project that lets users explore and watch public broadcasting
 |------|-----|-------|------|------|  
 | **[DeHell](https://chocolandtv.itch.io/dehell)** | Puls Game Jam | *Broken* | #6 (Top 3.6%) | Mar 2025 |  
 | **[Bad Apple](https://misterixi.itch.io/bad-apple)** | Godot Wild Jam #71 | *Unintended Consequences* | #9 (Top 6.5%) | Jul 2024 |  
-| **[Life Support](https://misterixi.itch.io/life-support)** | Mini Bean Jam #9 | *We Are Not Alone* | #5 (Top 19.2%) | Nov 2023 |  
-| **[Project: Pirates](https://misterixi.itch.io/project-pirates)** | UDC Jam #25 | *Alone* | #9 (Top 22%) | Mar 2023 |  
+| **[Leberkäß](https://misterixi.itch.io/leberkaes)** | Godot Wild Jam #80 | *Uncontrolled Chaos* | #17 (Top 8.4%) | Apr 2025 |  
 
 *(Full list on [itch.io](https://olipohl.itch.io/))*
 

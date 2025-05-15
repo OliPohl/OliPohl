@@ -14,7 +14,7 @@ My coding adventures usually involve:
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Project  
 
 ### 🌙 [Night Guardian](https://github.com/OliPohl/night-guardian)  
 [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]() [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)]() 
@@ -26,19 +26,6 @@ A personal sleep assistant designed to promote healthy sleep habits. It helps us
 💻 **Legacy Version**: [Night Guardian V1 (Python Concept)](https://github.com/OliPohl/night-guardian-v1/releases/tag/NightGuardian) *(shown below)*  
 
 ![Night Guardian v1](https://olipohl.com/pages/info/images/nightguardian-info/night_guardian_cover.gif)  
-
----
-
-### 🌍 [Project-TV (Working Title)](https://github.com/OliPohl/project-tv)  
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)]() [![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]() [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)]()
-
-An interactive web project that lets users explore and watch public broadcasting live TV channels through a 3D globe interface.
-
-🚧 **Status**: Version 3 Under Development  
-
-💻 **Legacy Version**: [TvGarden V2](https://olipohl.com/tvgarden.html) *(shown below)*  
-
-![TvGarden v2](https://olipohl.com/pages/info/images/tvgarden-info/tvgarden_cover.gif)  
 
 ---
 

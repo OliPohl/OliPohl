@@ -7,11 +7,6 @@ My coding adventures usually involve:
 - 🎮 Game Development in Godot
 - 🐍 Python Utilities & Scripts
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliPohl&layout=compact&theme=radical&hide_border=true&card_width=370" />
-</a>
-
-
 ---
 
 ## 🚀 Featured Project  
